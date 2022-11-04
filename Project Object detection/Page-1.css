@@ -1,0 +1,32 @@
+body{
+	position: relative;
+	width: 1440px;
+	height: 1024px;
+
+	background: linear-gradient(180deg, #1C4BC5 0%, rgba(0, 0, 0, 0.95) 100%);
+}
+
+.ObjectDetectionSystem{
+	position: absolute;
+	width: 987px;
+	height: 223px;
+	left: 226px;
+	top: 354px;
+	
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 80px;
+	line-height: 97px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	
+	background: linear-gradient(180deg, rgba(255, 255, 255, 0.82) 36.46%, rgba(255, 255, 255, 0) 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+	text-fill-color: transparent;
+
+
+}

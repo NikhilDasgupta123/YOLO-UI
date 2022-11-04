@@ -1,0 +1,145 @@
+body{
+	position: relative;
+	width: 1440px;
+	height: 1024px;
+
+	background: linear-gradient(180deg, #1C4BC5 0%, rgba(0, 0, 0, 0.95) 100%);
+}
+
+.ObjectDetectionSystem{
+	position: absolute;
+	width: 987px;
+	height: 223px;
+	left: 300px;
+	top: 0px;
+	
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 80px;
+	line-height: 97px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	
+	background: linear-gradient(180deg, rgba(255, 255, 255, 0.82) 36.46%, rgba(255, 255, 255, 0) 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+	text-fill-color: transparent;
+
+
+}
+
+.LiveVideoRunning{
+	position: absolute;
+	width: 422px;
+	height: 42px;
+	left: 509px;
+	top: 241px;
+	
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 32px;
+	line-height: 39px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	letter-spacing: 0.21em;
+	
+	color: #FFFFFF;
+
+}
+
+.Rectangle1{
+	box-sizing: border-box;
+
+position: absolute;
+	width: 1440px;
+	height: 477px;
+	left: 30px;
+	top: 330px;
+	
+	border: 1px solid #FFFFFF;
+
+}
+
+.Rectangle2{
+	position: absolute;
+	width: 317px;
+	height: 83px;
+	left: 551px;
+	top: 527px;
+	
+	background: rgba(255, 255, 255, 0.8);
+
+}
+
+.TabLiveFeed{
+	position: absolute;
+	width: 215px;
+	height: 58px;
+	left: 622px;
+	top: 539px;
+	
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 32px;
+	line-height: 39px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	
+	color: #000000;
+}
+
+.Ellipse1{
+	position: absolute;
+	width: 35px;
+	height: 33px;
+	left: 581px;
+	top: 552px;
+	border-radius: 50%;
+	
+	background: #FF0000;
+}
+
+.Object1{
+	position: absolute;
+	width: 170px;
+	height: 48px;
+	left: 115px;
+	top: 840px;
+	
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 29px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	
+	color: #FFFFFF;
+}
+
+.Object2{
+	position: absolute;
+	width: 174px;
+	height: 48px;
+	left: 111px;
+	top: 911px;
+	
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 29px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	
+	color: #FFFFFF;
+}
